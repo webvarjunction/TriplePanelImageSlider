@@ -7,6 +7,11 @@ A tutorial about how to create a triple panel jQuery image slider with a 3D look
 
 [Demo](http://tympanus.net/Tutorials/TriplePanelImageSlider/)
 
+**HTML**
+**CSS**
+**JAVASCRIPT**
+Create a awesome Image Slider show using HTML, CSS and JavaScript.
+
 Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
 
 Read more here: [License](http://tympanus.net/codrops/licensing/)
